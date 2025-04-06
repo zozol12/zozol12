@@ -4,9 +4,6 @@
 ### <div align="center">I'm MIkołaj, full-stack web developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [PiiNut](https://github.com/PiiNut-Tech)  
-  
-
 - 🌱 I’m currently learning Nuxt 3, Vue.js & TailwindCSS  
   
 
